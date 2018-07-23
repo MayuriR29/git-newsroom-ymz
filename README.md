@@ -8,7 +8,7 @@
 - Everyone should `git clone` the repository to make it available locally
 
 ### Task:
-Your team has to go through [raw-news.txt](./raw-news.txt) and create directories (1 directory per category) and files (1 file per news tweet).
+Your team has to go through [raw-news.txt](https://github.com/thoughtworks-jumpstart/git-newsroom/blob/master/raw-news.txt) and create directories (1 directory per category) and files (1 file per news tweet).
 
 Rules:
 - `git add`, `git commit`, `git push` and `git pull` often.
